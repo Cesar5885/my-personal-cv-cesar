@@ -18,9 +18,14 @@ body {
     margin: 20px auto;
     /* Center the CV on the page */
     padding: 20px;
-    border: 1px solid #ddd;
+    border: 4px solid wheat;
     /* Border around the CV */
 }
+
+.Training {
+        background-color: blanchedalmond;
+        z-index: 3;
+} 
 
 header {
     text-align: center;
